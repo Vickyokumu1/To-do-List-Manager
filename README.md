@@ -5,10 +5,10 @@ Preparation of a To Do List
 
 To do list preparation## Names of contributor
 
-Data analytics classs
+Okumu and Data Analytics class
 ## Description of the project's purpose
 
-To prepare a workable to do lists
+To prepare a workable to do list
 ## Complete setup/installation instruction
 
 Complete the to do list with the activities and the required timelines and dates 
