@@ -3,16 +3,14 @@
 Preparation of a To Do List
 ## Application name
 
-To do list preparation## 
-Names of contributor
+To do list preparation## Names of contributor
 
-Data analytics classs## 
-Description of the project's purpo
+Data analytics classs
+## Description of the project's purpo
 
-To prepare a workable to do lists## e
-Complete setup/installation instructi
+To prepare a workable to do lists
+## Complete setup/installation instruction
 
-Complete the to do list with the activities and the required timelines  o## ns
-License information with a copyright and 
+Complete the to do list with the activities and the required timelines and dates 
 
-date
+## License information with a copyright and 
